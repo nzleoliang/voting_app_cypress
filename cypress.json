@@ -1,4 +1,5 @@
 {
   "watchForFileChanges": true,
-  "defaultCommandTimeout": 60000
+  "defaultCommandTimeout": 60000,
+  "experimentalSourceRewriting": true
 }
